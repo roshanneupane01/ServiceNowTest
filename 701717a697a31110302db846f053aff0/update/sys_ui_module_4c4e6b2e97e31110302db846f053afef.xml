@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="NeedIt">4c4e6b2e97e31110302db846f053afec</application>
+        <filter/>
+        <name>NeedIts</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_950618_devtraini.needit_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-07 03:19:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4c4e6b2e97e31110302db846f053afef</sys_id>
+        <sys_name>NeedIts</sys_name>
+        <sys_package display_value="devtraining-needit-rome.git" source="x_950618_devtraini">701717a697a31110302db846f053aff0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="devtraining-needit-rome.git">701717a697a31110302db846f053aff0</sys_scope>
+        <sys_update_name>sys_ui_module_4c4e6b2e97e31110302db846f053afef</sys_update_name>
+        <table>x_950618_devtraini_needit</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
